@@ -1,5 +1,5 @@
 # Digital Logic
-This course gave me a strong grasp of digital electronics, vital for understanding microprocessor-based systems in computers, robots, automobiles, and industrial control systems. It covered key concepts, tools, and provided up-to-date knowledge on digital fundamentals, including programmable logic devices. Hands-on lab experiments allowed me to apply theory to real-world scenarios, while working with simulator software and actual devices enhanced my practical skills. Overall, it ensured a comprehensive understanding of digital electronics and its crucial role in modern technology.
+This course equipped me with essential knowledge in digital electronics, crucial for microprocessor-based systems. Covering key concepts and practical applications, it ensured a comprehensive understanding of digital fundamentals and their significance in modern technology.
 
 ## Chapter 1: Digital Logic Overview 🌐
 <img width="400" src="https://raw.githubusercontent.com/lauyankai/Digital_Logic/main/images/pic01.jpg" />
