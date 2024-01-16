@@ -36,3 +36,6 @@ This course equipped me with essential knowledge in digital electronics, crucial
 ## Chapter 9: Shift Register 🔄📊
 <img width="400" src="https://raw.githubusercontent.com/lauyankai/Digital_Logic/main/images/pic09.webp" />
 <div>&nbsp;</div>
+
+## Reflection
+From this Digital Logic course, I was provided essential knowledge in microprocessor-based systems and digital electronics. I learned key concepts and practical applications that help me understand the basics of digital technology. Exploring topics like logic gates and shift registers made complex ideas simpler to grasp. Overall, the course gave me valuable insights into the world of digital electronics.
